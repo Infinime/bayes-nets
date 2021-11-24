@@ -4,8 +4,6 @@
 # Imports
 ############################################################
 
-# Include your imports here, if any are used.
-
 import string
 import random
 import math
@@ -166,21 +164,3 @@ def create_ngram_model(n, path):
 
 # model = create_ngram_model(2, 'frankenstein.txt')
 # print(model.random_text(15))
-
-# ############################################################
-# # Section 2: Feedback
-# ############################################################
-
-# feedback_question_1 = 0
-
-# feedback_question_2 = """
-# Type your response here.
-# Your response may span multiple lines.
-# Do not include these instructions in your response.
-# """
-
-# feedback_question_3 = """
-# Type your response here.
-# Your response may span multiple lines.
-# Do not include these instructions in your response.
-# """
